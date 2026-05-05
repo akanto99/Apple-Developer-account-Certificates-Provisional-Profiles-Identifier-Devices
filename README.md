@@ -1,6 +1,6 @@
-# 🍎 iOS App Store Submission — Complete Guide (Bengali)
+# 🍎 iOS App Store Submission — Complete Guide 
 
-> Apple Developer Certificate, Identifier, Profile, Device, Push Notification (P12) — সম্পূর্ণ A to Z গাইড বাংলায়।
+> Apple Developer Certificate, Identifier, Profile, Device, Push Notification (P12) — সম্পূর্ণ A to Z গাইড ।
 
 ---
 
